@@ -19,14 +19,14 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94761539856']
-global.premium = ['94761539856']
-global.ownernomer = '94761539856'
-global.ownername = 'Dark_Ezio'
+global.owner = ['94779062397']
+global.premium = ['94779062397']
+global.ownernomer = '94779062397'
+global.ownername = '🆂🅰🅳🅴🅴🆂🅷🅰'
 global.botname = 'Ai_Dark_Ezio_Wa-Bot'
 global.footer = '©Subadra_Poshitha.'
 global.ig = 'https://github.com/aidarkezio'
-global.region = 'Sri Lanka, Western Province, Clombo'
+global.region = 'Sri Lanka, South, walasmulla'
 global.sc = 'https://aidarkezio.github.io'
 global.myweb = 'https://www.youtube.com/channel/UCeDeaDD8dpdMT2gO3VHY1JQ'
 global.packname = 'Ai_Dark_Ezio_Wa-Bot'
